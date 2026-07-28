@@ -51,4 +51,4 @@ if st.button("Enviar 🚀"):
         st.write(resposta)
 
     else:
-        st.warning("Digite uma pergunta antesde enviar.")
+        st.warning("Digite uma pergunta antes de enviar.")

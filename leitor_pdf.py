@@ -1,6 +1,6 @@
 import os
 from pypdf import PdfReader
-
+    
 
 def ler_pdfs():
     """
