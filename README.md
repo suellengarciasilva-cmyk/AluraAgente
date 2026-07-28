@@ -122,3 +122,10 @@ O projeto utiliza um arquivo `.env` para armazenar informações sensíveis e o 
 Suellen Garcia
 
 Challenge Alura Agent
+
+---
+
+## ☁️ Deploy
+
+Inicialmente, o deploy da aplicação estava planejado para o Oracle Cloud. No entanto, não foi possível concluir o cadastro na plataforma devido a um erro no processo de registro, o que impediu a publicação do projeto em nuvem. Dessa forma, a aplicação está disponível apenas para execução local, conforme as instruções descritas acima.
+
