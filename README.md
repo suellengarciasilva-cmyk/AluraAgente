@@ -47,7 +47,7 @@ AluraAgente/
 
 Primeiro, clone o repositório:
 
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/suellengarciasilva-cmyk/AluraAgente
 
 Instale as dependências:
 
